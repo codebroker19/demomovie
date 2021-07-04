@@ -1,0 +1,13 @@
+.app{
+    position: relative;
+    min-height: 100vh;
+    padding:160px 40px ;
+    background-color: #343A40;
+    color: white;
+}
+@media (max-width: 700px) {
+    .app {
+      padding-top: 150px;
+    }
+  }
+  
